@@ -1,14 +1,13 @@
-<p float="left">
-<img height="256" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambdalisue&theme=nord&hide_border=false&include_all_commits=true&count_private=true">
-<img height="256" src="https://github-contributor-stats.vercel.app/api?username=lambdalisue&limit=5&theme=nord&combine_all_yearly_contributions=true">
-<img height="256" src="https://github.com/lambdalisue/lambdalisue-avatar/blob/main/avatars/with_no_smoking.png?raw=true">
-</p>
-<p float="left">
-<img height="205" src="https://github-readme-stats.vercel.app/api?username=lambdalisue&theme=nord&hide_border=false&include_all_commits=true&count_private=true">
-<img height="205" src="https://github-readme-streak-stats.herokuapp.com/?user=lambdalisue&theme=nord&hide_border=false">
-</p>
-
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lambdalisue) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/lambdalisue) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1273406) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lambdalisue) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lambdalisue) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lambdalisue)
+
+<p float="left" align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lambdalisue&theme=nord&hide_border=false&include_all_commits=true&count_private=true">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lambdalisue&theme=nord&hide_border=false">
+</p>
+<p float="left" align="center">
+<img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambdalisue&theme=nord&hide_border=false&include_all_commits=true&count_private=true">
+<img height="250" src="https://github-contributor-stats.vercel.app/api?username=lambdalisue&limit=5&theme=nord&combine_all_yearly_contributions=true">
+</p>
 
 ## 🏆 I have trophies like
 ![](https://github-profile-trophy.vercel.app/?username=lambdalisue&theme=nord&no-frame=false&no-bg=true&margin-w=4)
