@@ -4,10 +4,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=lambdalisue&include_all_commits=true&count_private=true">
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lambdalisue">
 </p>
-<p float="left" align="center">
-<img height="370" src="https://github-contributor-stats.vercel.app/api?username=lambdalisue&limit=10">
-<img height="370" src="https://github-contributor-stats.vercel.app/api?username=lambdalisue&limit=10&combine_all_yearly_contributions=true">
-</p>
 
 ## 🏆 I have trophies like
 ![](https://github-profile-trophy.vercel.app/?username=lambdalisue&margin-w=4)
